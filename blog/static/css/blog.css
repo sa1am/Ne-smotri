@@ -3,7 +3,7 @@
     padding: 20px 200px 200px 40px;
 }
 h1 a {
-    color: cadetblue;
+    color: #83a01b;
     font-family: 'Lobster';
 }
 
@@ -34,10 +34,11 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #fcff0d;
     float: right;
-    font-size: 26pt;
+    font-size: 30pt;
     margin-right: 20px;
+    margin-top: 1px;
 }
 
 .post {
